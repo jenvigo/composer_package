@@ -1,0 +1,11 @@
+{
+    "name": "jenvigo/composer_package",
+    "description": "juan's first package",
+    "authors": [
+        {
+            "name": "jenvigo",
+            "email": "jenvigo@gmail.com"
+        }
+    ],
+    "require": {}
+}
