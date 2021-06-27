@@ -2,7 +2,7 @@
 
 namespace App;
 
-class Test
+class Saludo
 {
     public static function hola()
     {
